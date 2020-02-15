@@ -1,3 +1,3 @@
 # hello-world
-Tired.
+Tired of nCoV theories.
 #something about myself
