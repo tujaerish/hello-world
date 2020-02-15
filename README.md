@@ -1,2 +1,3 @@
 # hello-world
-print 'hello world'
+Tired of nCoV theories.
+#something about myself
